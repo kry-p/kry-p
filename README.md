@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=BDFCC9&height=300&section=header&text=Jaehun%20Jung&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=BDFCC9&height=180&section=header&text=Jaehun%20Jung&fontSize=90&animation=fadeIn)
 
 <h3 align="center"> Hello, 👋 </h3>
 
@@ -24,4 +24,4 @@ Interested in 🌏 Single-page Application, 🤔 Data analysis, etc.
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=300&section=footer&text=&fontSize=90&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=180&section=footer&text=&fontSize=90&animation=fadeIn)
