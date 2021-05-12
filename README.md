@@ -25,5 +25,4 @@ Interested in 🌏 Single-page Application, 🤔 Data analysis, etc.
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>&nbsp
 </p>
 
-
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=150&section=footer&text=&fontSize=90&animation=fadeIn)
