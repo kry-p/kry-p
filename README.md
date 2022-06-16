@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=BDFCC9&height=300&section=header&text=Jaehun%20Jung&fontSize=90&animation=fadeIn)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=BDFCC9&height=300&section=header&text=Jaehun%20Jung&fontSize=90&animation=fadeIn">
+</p>
 <h3 align="center"> Hello, 👋 </h3>
 
 <p align="center">I'm Jaehun Jung, a junior developer. 🍏 <br>
@@ -24,13 +25,26 @@ Interested in 🌏 Single-page Application, 🧹 Clean code, etc.
 
 
 ------------------
-      
-      
-      
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=psd7256)](https://solved.ac/psd7256)  
-  
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kry-p&&show_icons=true&theme=dark)
+<h2 align="center">
 
+  
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=150&section=footer&text=&fontSize=90&animation=fadeIn)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kry-p&&show_icons=true&theme=dark)
+  <br/>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kry-p&layout=compact&theme=onedark)
+  <br/>
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=psd7256)](https://solved.ac/psd7256)
+  <br/>
+  
+
+</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFFFFF&height=150&section=footer&text=&fontSize=90&animation=fadeIn">
+</p>
+ 
+
+      
+
